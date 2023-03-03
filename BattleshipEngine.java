@@ -1,14 +1,3 @@
-/*
-	Jack O'Connor
-
-	COS 161, summer 2021, Prof.Amorelli
-
-	Project 4
-
-	File Name: BattleshipEngine.java
-*/
-
-
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
